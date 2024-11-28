@@ -1,3 +1,2 @@
-# This R script is designed to analyse the Sanger sequencing data of influenza samples, on a google colab environment.
-
-
+# Refer to this link:
+# https://colab.research.google.com/drive/1ewBIlQ-JyiRQPU9Sut64391rpQqUAHmt?usp=sharing
