@@ -1,4 +1,4 @@
-Applied Medical Microbiology - Bioinformatics tutorial (2024)
+## Applied Medical Microbiology - Bioinformatics tutorial (2024)
 
 ---
 

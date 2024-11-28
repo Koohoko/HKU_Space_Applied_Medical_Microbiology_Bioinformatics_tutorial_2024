@@ -1,0 +1,4 @@
+dont_sync/*
+*.seq
+*.key
+.DS_Store
